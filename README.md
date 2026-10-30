@@ -1,5 +1,5 @@
 # Ex01 Portfolio
-## Date:
+## Date: 30-10-2026
 
 ## AIM
 To create a Portfolio using HTML and CSS.
@@ -405,15 +405,10 @@ contact.html
 
 ## OUTPUT
 
-
-
-
-
-
-
-
-
-
+![alt text](image-3.png)
+![alt text](image-2.png)
+![alt text](image-1.png)
+![alt text](image.png)
 
 ## RESULT
 The program for creating Portfolio using HTML and CSS is executed successfully.
